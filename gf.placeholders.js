@@ -17,7 +17,7 @@ var gf_placeholder = function() {
 			var $field = $(this);
 
 			var id = this.id;
-			var $labels = $('label[for=' + id + ']').hide();
+			var $labels = $('label[for=' + id + ']').addClass('visuallyhidden');
 			var label = $labels.last().text();
 
 			if (label.length > 0 && label[ label.length-1 ] == '*') {
