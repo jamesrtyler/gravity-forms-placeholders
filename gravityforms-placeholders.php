@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Gravity Forms - Placeholders add-on
-Plugin URI: http://github.com/neojp/gravity-forms-placeholders/
-Description: Adds HTML5 placeholder support to Gravity Forms' fields with a javascript fallback. Javascript & jQuery are required.
-Version: 1.2.1
-Author: Joan Piedra
-Author URI: http://joanpiedra.com
+Plugin Name: JT Gravity Forms - Placeholders add-on
+Plugin URI: http://github.com/jamesrtyler/gravity-forms-placeholders
+Description: Adds HTML5 placeholder support to Gravity Forms' fields with a javascript fallback. Javascript & jQuery are required. Project forked from https://github.com/neojp/gravity-forms-placeholders
+Version: 1.0.1
+Author: James Tyler
+Author URI: http://jamestyler.me
 
 Instructions:
 Just add a "gplaceholder" CSS classname to the required fields or form
